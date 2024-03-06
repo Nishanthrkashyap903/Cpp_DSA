@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "numbers": "cpp",
+        "algorithm": "cpp",
+        "__undef_macros": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "ratio": "cpp",
+        "valarray": "cpp",
+        "__config": "cpp",
+        "linkedlist": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
